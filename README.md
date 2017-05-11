@@ -13,4 +13,8 @@ ALL samples have been mapped to Jean's custom SEED subsys4 reference set (curate
 
 The primary comparison of these data are BV status (by Nugent scoring). In the `samples_for_analysis.txt` file are suggested groupings of the data for comparison. It would be prudent to look at the compositional PCA biplot to understand where these groupings came from.
 
+* h1 and h2 = healthy (non-BV)
+* bv1 and bv1 = BV (Bacterial vaginosis)
+* out = outliers
+
 There is associated metadata and metabolome data for these sample (not included - you have to ask).
