@@ -18,3 +18,6 @@ The primary comparison of these data are BV status (by Nugent scoring). In the `
 * out = outliers
 
 There is associated metadata and metabolome data for these sample (not included - you have to ask).
+
+------
+_Note for Jean: This is the table using refseq mapping. SOLiD with Bowtie and HiSeq with Bowtie2_
