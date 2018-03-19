@@ -17,6 +17,8 @@ The primary comparison of these data are BV status (by Nugent scoring). In the `
 * bv1 and bv1 = BV (Bacterial vaginosis)
 * out = outliers
 
+The barplot comes from: Groups/twntyfr/analysis_2016/barplot_heatmap.pdf
+
 There is associated metadata and metabolome data for these sample (not included - you have to ask).
 
 ------
